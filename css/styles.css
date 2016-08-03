@@ -19,5 +19,20 @@
 
 .blog{
   text-align: center;
-  width: 80%;
+  width: 65%;
+  float: left;
+  background-color: pink;
+  border-radius: 5px;
+}
+
+.about{
+  float: right;
+  width: 30%;
+  text-align: center;
+  background-color: purple;
+  border-radius: 5px;
+}
+
+.about img{
+  border-radius: 25%;
 }
