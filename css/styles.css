@@ -1,0 +1,23 @@
+.blog1{
+  font-family: fantasy;
+  font-weight: lighter;
+  text-shadow: 1px 1px grey;
+  color: #EEC935;
+}
+
+.blog2{
+  font-family: monospace;
+  font-weight: bolder;
+  color: #487DF0;
+  font-size: 1.3em;
+}
+
+.blog3{
+  font-family: serif;
+  color: red;
+}
+
+.blog{
+  text-align: center;
+  width: 80%;
+}
